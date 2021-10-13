@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DTO\\02_Bill.DTO.csproj",
-      "projectName": "02_Bill.DTO",
-      "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DTO\\02_Bill.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DTO\\Bill.DTO.csproj",
+      "projectName": "Bill.DTO",
+      "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DTO\\Bill.DTO.csproj",
       "packagesPath": "C:\\Users\\isabe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DTO\\obj\\",
       "projectStyle": "PackageReference",
