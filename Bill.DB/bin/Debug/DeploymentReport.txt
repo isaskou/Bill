@@ -1,0 +1,21 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Adress] (Table)
+       [dbo].[Customer] (Table)
+       [dbo].[Provider] (Table)
+       [dbo].[FK_Customer_Adress] (Clé étrangère)
+       [dbo].[FK_Provider_Adress] (Clé étrangère)
+       [dbo].[CK_Customer_Email] (Contrainte de validation)
+       [dbo].[CK_Provider_Email] (Contrainte de validation)
+
+** Actions de support

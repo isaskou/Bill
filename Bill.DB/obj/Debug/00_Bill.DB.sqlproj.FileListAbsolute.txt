@@ -1,0 +1,9 @@
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\bin\Debug\00_Bill.DB.dacpac
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\bin\Debug\Bill.DB.dll
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\bin\Debug\Bill.DB.pdb
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\Model.xml
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\refactor.xml
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\postdeploy.sql
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\predeploy.sql
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\Bill.DB.dll
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\Bill.DB.pdb
