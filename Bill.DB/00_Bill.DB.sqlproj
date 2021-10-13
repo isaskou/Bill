@@ -64,4 +64,7 @@
     <Build Include="Tables\People\Provider.sql" />
     <Build Include="Tables\People\Adress.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="00_Bill.DB.publish.xml" />
+  </ItemGroup>
 </Project>
