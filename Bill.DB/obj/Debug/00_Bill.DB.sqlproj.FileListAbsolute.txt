@@ -7,3 +7,4 @@ C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\postdeploy.sql
 C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\predeploy.sql
 C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\Bill.DB.dll
 C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\Bill.DB.pdb
+C:\Users\isabe\source\repos\Bill_MaFacture\Bill.DB\obj\Debug\00_Bill.DB.sqlproj.AssemblyReference.cache

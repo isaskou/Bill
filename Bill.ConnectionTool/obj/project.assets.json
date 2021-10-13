@@ -460,9 +460,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\Bill.ConnectionTool.csproj",
-      "projectName": "Bill.ConnectionTool",
-      "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\Bill.ConnectionTool.csproj",
+      "projectUniqueName": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\ConnectionTool.csproj",
+      "projectName": "ConnectionTool",
+      "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\ConnectionTool.csproj",
       "packagesPath": "C:\\Users\\isabe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\obj\\",
       "projectStyle": "PackageReference",

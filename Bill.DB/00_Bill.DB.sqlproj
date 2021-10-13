@@ -58,13 +58,24 @@
     <Folder Include="Properties" />
     <Folder Include="Tables" />
     <Folder Include="Tables\People" />
+    <Folder Include="StoredProcedure" />
+    <Folder Include="StoredProcedure\People" />
+    <Folder Include="StoredProcedure\People\Customer" />
+    <Folder Include="Script" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\People\Customer.sql" />
     <Build Include="Tables\People\Provider.sql" />
     <Build Include="Tables\People\Adress.sql" />
+    <Build Include="StoredProcedure\People\Customer\SP_AddCustomer.sql" />
+    <Build Include="StoredProcedure\People\Customer\SP_UpdateCustomer.sql" />
+    <Build Include="StoredProcedure\People\Customer\SP_GetCustomerById.sql" />
+    <Build Include="StoredProcedure\People\Customer\SP_GetAllCustomers.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="00_Bill.DB.publish.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Script\Script.PostDeployment1.sql" />
   </ItemGroup>
 </Project>

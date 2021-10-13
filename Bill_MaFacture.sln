@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Bill.Api", "Bill.Api\03_Bill.Api.csproj", "{0828F019-36C2-4255-9A7B-5C58D1525C5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bill.Api", "Bill.Api\Bill.Api.csproj", "{0828F019-36C2-4255-9A7B-5C58D1525C5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Bill.DAL", "Bill.DAL\01_Bill.DAL.csproj", "{2F4AECCA-F724-47B9-B16B-5E156D866059}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bill.DAL", "Bill.DAL\Bill.DAL.csproj", "{2F4AECCA-F724-47B9-B16B-5E156D866059}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Bill.DTO", "Bill.DTO\02_Bill.DTO.csproj", "{FD3EC171-DE2C-4B38-AC46-0A0CF1ABEAC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bill.DTO", "Bill.DTO\Bill.DTO.csproj", "{FD3EC171-DE2C-4B38-AC46-0A0CF1ABEAC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bill.ConnectionTool", "Bill.ConnectionTool\Bill.ConnectionTool.csproj", "{C4369BA5-4DA5-49EC-84E6-011B49A42532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectionTool", "Bill.ConnectionTool\ConnectionTool.csproj", "{C4369BA5-4DA5-49EC-84E6-011B49A42532}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "00_Bill.DB", "Bill.DB\00_Bill.DB.sqlproj", "{194721AE-BA60-43A4-A08E-650FBC5D9FBC}"
 EndProject

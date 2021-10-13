@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RTzuvNVv5q8Oty+EyrFJXlleVq/+7/SJoFaTXwGVVl4nTAeV1uIIkrfPByQHiwoLYVc2cVrAUfkvswZOhGxQYw==",
+  "dgSpecHash": "uCScQEDhJhZem76XuvhQP+JRQRZYZWmkXNQs032IvLm+GtWUG33tJbkDU9MmlSa71MBfmUzbm8mw/8OVS/pO3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\Bill.ConnectionTool.csproj",
+  "projectFilePath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\ConnectionTool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isabe\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\isabe\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

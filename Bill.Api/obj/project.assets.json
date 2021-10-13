@@ -199,9 +199,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.Api\\03_Bill.Api.csproj",
-      "projectName": "03_Bill.Api",
-      "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.Api\\03_Bill.Api.csproj",
+      "projectUniqueName": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.Api\\Bill.Api.csproj",
+      "projectName": "Bill.Api",
+      "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.Api\\Bill.Api.csproj",
       "packagesPath": "C:\\Users\\isabe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.Api\\obj\\",
       "projectStyle": "PackageReference",
