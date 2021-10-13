@@ -1,3 +1,7 @@
+using Bill.DAL.Interfaces.People;
+using Bill.DAL.Repositories.People;
+using Bill.DTO.Interfaces.People;
+using Bill.DTO.Services.People;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +32,13 @@ namespace Bill.Api
         {
 
             services.AddControllers();
+            services.AddCors();
+
+            #region People
+
+            services.AddScoped<ICustomerRepository, CustomerRepository>();
+            services.AddScoped<ICustomerService, CustomerService>();
+            #endregion
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Bill.Api", Version = "v1" });
