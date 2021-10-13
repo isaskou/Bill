@@ -3,7 +3,8 @@
 	[Id] INT NOT NULL IDENTITY,
 	FirstName nvarchar(50) NULL,
 	LastName nvarchar(50) NULL,
-	Company nvarchar(50) NULL,
+	CompanyName nvarchar(50) NULL,
+	TVANumber nvarchar(50) UNIQUE NULL,
 	PhoneNumber nvarchar(25) NULL,
 	Email nvarchar(255) NOT NULL,
 
