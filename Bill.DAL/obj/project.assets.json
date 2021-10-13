@@ -152,17 +152,17 @@
           }
         }
       },
-      "Bill.ConnectionTool/1.0.0": {
+      "ConnectionTool/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "System.Data.SqlClient": "4.8.3"
         },
         "compile": {
-          "bin/placeholder/Bill.ConnectionTool.dll": {}
+          "bin/placeholder/ConnectionTool.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bill.ConnectionTool.dll": {}
+          "bin/placeholder/ConnectionTool.dll": {}
         }
       }
     }
@@ -523,15 +523,15 @@
         "version.txt"
       ]
     },
-    "Bill.ConnectionTool/1.0.0": {
+    "ConnectionTool/1.0.0": {
       "type": "project",
-      "path": "../Bill.ConnectionTool/Bill.ConnectionTool.csproj",
-      "msbuildProject": "../Bill.ConnectionTool/Bill.ConnectionTool.csproj"
+      "path": "../Bill.ConnectionTool/ConnectionTool.csproj",
+      "msbuildProject": "../Bill.ConnectionTool/ConnectionTool.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Bill.ConnectionTool >= 1.0.0",
+      "ConnectionTool >= 1.0.0",
       "Microsoft.Extensions.Configuration.Abstractions >= 5.0.0"
     ]
   },
@@ -542,9 +542,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DAL\\01_Bill.DAL.csproj",
-      "projectName": "01_Bill.DAL",
-      "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DAL\\01_Bill.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DAL\\Bill.DAL.csproj",
+      "projectName": "Bill.DAL",
+      "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DAL\\Bill.DAL.csproj",
       "packagesPath": "C:\\Users\\isabe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.DAL\\obj\\",
       "projectStyle": "PackageReference",
@@ -567,8 +567,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\Bill.ConnectionTool.csproj": {
-              "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\Bill.ConnectionTool.csproj"
+            "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\ConnectionTool.csproj": {
+              "projectPath": "C:\\Users\\isabe\\source\\repos\\Bill_MaFacture\\Bill.ConnectionTool\\ConnectionTool.csproj"
             }
           }
         }
